@@ -1,0 +1,26 @@
+.btns{
+    text-decoration:none;
+    color:white;
+    font-size: 70px;
+    background-color:#1877f2;
+    text-align:center;
+    padding:10px 15px;
+    border:none;
+    border-radius:10px;
+    font-size:20px;
+    margin:10px;
+    }
+
+.home{
+    padding: 20px 0;
+}
+tr th, td{
+    font-size:28px;
+}
+td span{
+   color:red;
+}
+.i{
+    font-size: 30px;
+}
+ 
